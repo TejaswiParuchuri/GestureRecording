@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">GesturePractice</string>
+    <string-array name="gesture_options">
+        <item>Select Gesture</item>
+        <item>Buy</item>
+        <item>House</item>
+        <item>Fun</item>
+        <item>Hope</item>
+        <item>Arrive</item>
+        <item>Really</item>
+        <item>Read</item>
+        <item>Lip</item>
+        <item>Mouth</item>
+        <item>Some</item>
+        <item>Communicate</item>
+        <item>Write</item>
+        <item>Create</item>
+        <item>Pretend</item>
+        <item>Sister</item>
+        <item>Man</item>
+        <item>One</item>
+        <item>Drive</item>
+        <item>Perfect</item>
+        <item>Mother</item>
+    </string-array>
+    <string-array name="gesture_urls">
+        <item>https://www.signingsavvy.com/media/mp4-ld/6/6442.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/23/23234.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/22/22976.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/22/22197.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/26/26971.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/24/24977.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/7/7042.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/26/26085.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/22/22188.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/23/23931.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/22/22897.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/27/27923.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/22/22337.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/25/25901.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/21/21587.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/21/21568.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/26/26492.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/23/23918.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/24/24791.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/21/21571.mp4</item>
+    </string-array>
+</resources>
