@@ -3,7 +3,7 @@
 
 
   * Download Xampp and install it in the system
-  * Place the give upload_Video.php file in xampp->htdocs folder 
+  * Place the given upload_Video.php file in xampp->htdocs folder 
   * start xampp_start.exe and then xampp_control.exe
   * Once Xampp controller starts start the apache sever
 
@@ -21,4 +21,5 @@
 		$path = "E:/Mobile_Computing/PracticeVideos/";
 
 #### Demo Video:
-  * Demo video explains all the above and the application demo and video has subtitles as well.
+  * Link to the demo video explains all the above and the application demo and video has subtitles as well. <br/>
+    https://www.youtube.com/watch?v=ZJARX4G7qtY
